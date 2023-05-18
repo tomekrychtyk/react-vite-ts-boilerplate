@@ -1,10 +1,22 @@
-import { Box, Typography } from '@mui/material';
+import { Grid } from '@mui/material';
 
 const Homepage = () => {
   return (
-    <Box>
-      <Typography variant="h2">Homepage</Typography>
-    </Box>
+    <Grid
+      sx={{
+        px: 4,
+        py: 4,
+      }}
+      container
+      direction="row"
+      justifyContent="center"
+      alignItems="stretch"
+      spacing={4}
+    >
+      <Grid item xs={12}>
+        Homepage
+      </Grid>
+    </Grid>
   );
 };
 
