@@ -1,6 +1,6 @@
 # ToDo List App NextGEN
 
-Simple React boilerplate.
+## Simple React boilerplate.
 
 - [x] Using super fast Vite.js
 - [x] TypeScript integration
@@ -11,6 +11,6 @@ Simple React boilerplate.
 - [ ] Initial RTK integration
 - [ ] 100% test coverage
 
-## Simple to use
+## Easy to use
 
 Just checkout the repo, do `yarn` and `yarn dev`
